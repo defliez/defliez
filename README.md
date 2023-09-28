@@ -1,4 +1,6 @@
 ### Hi there 👋
+### My name is Valentino Glave.
+### I am a software/systems developer and I am currently working on my Bachelor degree in Computer Science with specialization in Computer Systems Development at Malmö University in Sweden.
 
 <!--
 **defliez/defliez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
