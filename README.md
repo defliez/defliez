@@ -1,5 +1,3 @@
-### Hi there 👋
-### My name is Valentino Glave.
 ### I am a software/systems developer and I am currently pursuing my Bachelor's degree in Computer Science with specialization in Computer Systems Development at Malmö University in Sweden.
 
 <!--
