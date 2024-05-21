@@ -1,4 +1,4 @@
-### I am a software developer and I am currently pursuing my Bachelor's degree in Computer Science with specialization in Computer Systems Development at Malmö University in Sweden.
+### I am currently pursuing my Bachelor's degree in Computer Science with specialization in Computer Systems Development at Malmö University, Sweden.
 
 <!--
 **defliez/defliez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
